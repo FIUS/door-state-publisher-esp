@@ -1,7 +1,7 @@
 #include <ESP8266WiFi.h>
 #include <PubSubClient.h>
 
-#define DEBUG
+//#define DEBUG
 
 #define WIFI_SSID "my ssid"
 #define WIFI_PASSWORD "my pw"
